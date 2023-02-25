@@ -11,6 +11,7 @@
   .domainsContainer {
     display: flex;
     gap: 4em;
+    margin-top: 20px;
     flex-wrap: wrap;
   }
   
