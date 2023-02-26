@@ -92,7 +92,7 @@ export default function Purchase() {
             <input
               type="text"
               value={name}
-              placeholder="learnweb3"
+              placeholder="flow"
               onChange={(e) => setName(e.target.value)}
             />
             <span>.fns</span>
